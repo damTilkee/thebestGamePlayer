@@ -18,5 +18,8 @@
   "homepage": "https://github.com/damTilkee/thebestGamePlayer#readme",
   "dependencies": {
     "phaser": "^3.16.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
   }
 }
